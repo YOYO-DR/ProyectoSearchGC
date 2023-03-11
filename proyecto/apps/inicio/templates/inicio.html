@@ -1,0 +1,12 @@
+{% extends 'home.html' %}
+
+{% load static %}
+
+{% block header %}
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+<link rel="icon" href="{% static 'media/img/iconoInicio.png' %}">
+{% endblock header %}
+
+{% block contenido %}
+<h1>{{dato}}</h1>
+{% endblock contenido %}
