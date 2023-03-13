@@ -1,0 +1,4 @@
+id secret twich para IGDB: gej0e3fzqrs1kzkj5zf89gfiu2pgcr
+client: drp1kpogy07hyf63pczg0rrwssytyh
+
+api de traductor : AIzaSyDCfchYqdytTQ0XwUeAmo7xTs3bUR0SgNU
